@@ -1,0 +1,16 @@
+.span-input{
+    display: inline-block;
+    word-wrap: break-word;
+    width: 80%;
+    }
+.edit-input{
+    display: inline-block;
+    width: 90%; 
+}
+.form-group{
+    display: inline-block;
+    width: 90%;
+}
+.block-one-line{
+    display: inline-block;
+}
